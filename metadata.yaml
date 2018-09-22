@@ -1,11 +1,16 @@
 _repo: Anecdotes-of-Big-Cats-and-Other-Beasts_55255
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55255-h/images/cover800.jpg
 creator:
   author:
     agent_name: Wilson, David Alec
     gutenberg_agent_id: '48243'
     url: http://www.gutenberg.org/2009/agents/48243
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55255#Anecdotes-of-Big-Cats-and-Other-Beasts
 gutenberg_issued: '2017-08-03'
 gutenberg_type: Text
 identifiers:
